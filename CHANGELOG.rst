@@ -11,14 +11,15 @@ Supported Versions:
 ======== ==========
 Python     Django
 ======== ==========
-3.7      2.2–3.2
-3.8-3.9  2.2–4.2
-3.10     3.2-4.2
+3.7      3.2
+3.8-3.9  3.2,4.1,4.2
+3.10     3.2,4.1,4.2
 3.11     4.1-4.2
 ======== ==========
 
-- Added support for Django 4.0, 4.1, 4.2 and Python 3.10, 3.11.
-- Removed support for Django 2.1
+- Added support for Django 4.1, 4.2
+- Added support Python 3.10, 3.11.
+- Removed support for Django 2.1, 2.2, 3.0, 3.1, 4.0
 - Remove support of Python 3.5 and 3.6
 
 0.14.0 (2021-06-08)

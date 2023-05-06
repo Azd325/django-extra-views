@@ -10,7 +10,7 @@ setup(
     name="django-extra-views",
     version=VERSION,
     url="https://github.com/AndrewIngram/django-extra-views",
-    install_requires=["Django >=2.1"],
+    install_requires=["Django >=3.2"],
     python_requires=">=3.7",
     description="Extra class-based views for Django",
     long_description=open("README.rst", "r").read(),
