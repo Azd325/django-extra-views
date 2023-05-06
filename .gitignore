@@ -15,3 +15,4 @@ nosetests.xml
 venv/
 coverage.xml
 /.tox/
+/.eggs/
